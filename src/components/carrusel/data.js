@@ -85,5 +85,8 @@ export const dataCursos = [
         Precio: "$ 15.00",
         nivel: "Nivel basico",
         imagen: "https://psicosmart.humansmart.pro/img_base_conocimiento_contenido/101-analytics-4.png"
+    },
+    {
+        id: 12
     }
 ]
