@@ -6,6 +6,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import "./fooder.css";
 
+//funcion del fooder para toda la plataforma
 function fooder() {
     return (
       <div>

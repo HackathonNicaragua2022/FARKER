@@ -30,7 +30,7 @@
 .banner{
     background-image: url(./img/banner.png);
     background-size: cover;
-    height: 30vh;
+    height: 37vh;
     display: grid;
     margin-top: 5px;
     align-content: center;

@@ -44,5 +44,16 @@
     height: 60vh;
     border-radius: 20px;
     color: var(--claro);
-    align-items:  b;
+}
+
+@media only screen and (max-width: 767px) {
+    .ContenedorVista{
+        width: 100%;
+      
+    }
+    .vista_1{
+        background-color: #6CB14F;
+        width: 100%;
+        height: 100vh;
+    }
 }

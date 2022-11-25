@@ -5,6 +5,7 @@ import PersonAddIcon from '@mui/icons-material/PersonAdd';
 import HandshakeIcon from '@mui/icons-material/Handshake';
 import ConnectWithoutContactIcon from '@mui/icons-material/ConnectWithoutContact';
 
+//contador de estudiante y nuestras categorias
 function estudiantes() {
   return (
     <div className='container_bars'>

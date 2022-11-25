@@ -2,6 +2,7 @@ import React from 'react'
 import SchoolIcon from '@mui/icons-material/School';
 import "./banner.css"
 
+//banner de inicio en la vista del homes
 function banner() {
   return (
     <div className='banner'>

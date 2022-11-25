@@ -9,11 +9,13 @@ import StarHalfIcon from '@mui/icons-material/StarHalf';
 import { Link } from "react-router-dom";
 import  Button  from '@mui/material/Button';
 
+//carrusel de cursos top 
 export default class Responsive extends Component {
   render() {
+    //configuraciones de carrusel
     var settings = {
       dots: true,
-      infinite: false,
+      infinite: true,
       speed: 500,
       slidesToShow: 3,
       slidesToScroll: 4,

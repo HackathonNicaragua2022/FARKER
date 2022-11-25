@@ -1,3 +1,4 @@
+//datos de los cursos para exportar a el carrusel
 export const dataCursos = [
     {
         id: 1,
