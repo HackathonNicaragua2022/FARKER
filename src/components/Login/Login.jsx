@@ -5,8 +5,7 @@ import TextField from "@mui/material/TextField";
 import { styled } from '@mui/material/styles';
 import { Link } from "react-router-dom";
 
-/* 
-*/ 
+//constante para cambiar los valores de los inputs
 const CssTextField = styled(TextField)({
     '& label.Mui-focused': {
       color: '#114B5F',
@@ -31,6 +30,7 @@ const CssTextField = styled(TextField)({
     },
   });
 
+//funcion de renderizar la vista del login  
 function Login() {
   return (
     <div className="ContenedorLog">
