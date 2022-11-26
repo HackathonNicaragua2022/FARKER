@@ -60,8 +60,8 @@ function Login() {
                 </div>
             </div>
             <div className="ContenedorImg">
-                <h1>Todo en una solucion.</h1>
-                <img src={"https://blog.bind.com.mx/hubfs/2.0/Modulos/Bind-ERP-Modulos_Reportes-tiempo-real-existencias.png"} alt="" className="Img1"/>
+                <h1>"Todo en una solucion"</h1>
+                <img src={images[6].Meka} alt="" className="Img1"/>
                 <p className="Stive">
                   " Porque la gente que está lo suficientemente loca como para 
                 </p>

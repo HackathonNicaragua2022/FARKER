@@ -4,6 +4,7 @@ import Logo_blanco_verde from "./img/logo_blenco_y_verde.png"
 import Bolsa from "./img/bolsa1.png";
 import Cap1 from "./img/cap1.jpg";
 import Team from "./img/team.jpg"
+import Mekano from "./img/mekano.png"
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default
@@ -27,5 +28,8 @@ export default
     },
     {
         "Team" : Team
+    },
+    {
+        "Meka" : Mekano
     }
 ]

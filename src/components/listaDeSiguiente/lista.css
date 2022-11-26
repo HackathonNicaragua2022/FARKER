@@ -1,0 +1,30 @@
+:root{
+    --blanco: #FEFEFE;
+    --azul: #0000FF;
+    --rojo: #ED5144;
+    --amarilo:#D3D824;
+    --azul1:#325AA6;
+    --verde_oscuro:#1C2E14;
+    --azul2: #0A3586;
+    --negro: #000000;
+    --claro: #EBEBEB;
+    --verde_bajo: #80D25B;
+    --aqua: #22BA8E;
+    --gris_azul: #114B5F;
+    --verde_ocuro:#6CB14F;
+}
+.sigVideo{
+    background-color: var(--claro);
+    color: #000000;
+    height: fit-content;
+    width: 70%;
+    border-radius: 25px;
+    border: solid 10px var(--claro);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding: 10px;
+}
+.logoMin{
+    height: 30px;
+}

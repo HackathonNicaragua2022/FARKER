@@ -16,13 +16,15 @@
 .ContenedorVista{
     display: flex;
     margin-top: 20px;
+    width: 100%;
+    justify-content: center;
 }
 
 .vista_1{
     display: flex;
-    background-color: var(--claro);
-    width: 60vh;
-    height: 50vh;
+    background-color: var(--verde_bajo);
+    width: 70vw;
+    height: 60vh;
     margin: 5px;
     border-radius: 20px;
     justify-content: center;
@@ -32,16 +34,21 @@
 .descripcion{
     background-color: var(--claro);
     margin: 5px;
-    height: 30vh;
+    height: auto;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 .barra_lateral{
-    justify-content: center;
+    align-items: center;
     display: flex;
+    flex-direction: column;
     background-color: var(--gris_azul);
-    width: 30vh;
+    width: 28vw;
     margin: 5px;
-    height: 60vh;
+    height: auto;
     border-radius: 20px;
     color: var(--claro);
 }

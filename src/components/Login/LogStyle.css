@@ -92,10 +92,11 @@
 }
 
 .Img1{
-    width: 500px;
-    margin-top: 20px;
+    height: 290px;
+    margin-top: 5px;
 }
 
 .Stive{
     color: var(--verde_bajo);
+    text-align: center;
 }
