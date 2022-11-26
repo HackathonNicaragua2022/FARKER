@@ -14,7 +14,7 @@ function SobreNosotros() {
         <Card
             imagen={images[7].Roland}
             nombre="Roland Loaisiga"
-            puesto="Desarrolador"
+            puesto="Desarrollador"
             descripcion="Estudiante de la carrera de ingenieria en sistemas de informacion, con experiencia en desarrollo web."
         />
         <Card2
