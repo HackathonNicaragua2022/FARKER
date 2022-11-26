@@ -22,7 +22,7 @@
 
 .vista_1{
     display: flex;
-    background-color: var(--verde_bajo);
+    background-color: var(--claro);
     width: 70vw;
     height: 60vh;
     margin: 5px;
@@ -40,6 +40,10 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
+    width: 68vw;
+    padding: 15px;
+    font-size: 15px;
+    text-align: justify;
 }
 .barra_lateral{
     align-items: center;
@@ -51,6 +55,7 @@
     height: auto;
     border-radius: 20px;
     color: var(--claro);
+    padding: 20px;
 }
 
 @media only screen and (max-width: 767px) {

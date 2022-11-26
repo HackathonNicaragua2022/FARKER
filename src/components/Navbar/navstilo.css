@@ -29,8 +29,14 @@ li{
     font-family: sans-serif;
     cursor: pointer;
 }
+
+.text{
+    text-decoration-line: none;
+    color: black;
+}
 .text_di{
     color: #4cd90b;
+    text-decoration-line: none;
 }
 .text:hover{
     color: #4cd90b ;

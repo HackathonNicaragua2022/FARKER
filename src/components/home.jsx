@@ -15,6 +15,7 @@ function home() {
       <Responsive/>
       <Span/>
       <Estudiantes/>
+      
       <Fooder/>
     </React.Fragment>
   )

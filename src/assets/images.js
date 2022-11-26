@@ -5,6 +5,11 @@ import Bolsa from "./img/bolsa1.png";
 import Cap1 from "./img/cap1.jpg";
 import Team from "./img/team.jpg"
 import Mekano from "./img/mekano.png"
+import Roland from "./img/Roland.jpg"
+import Janmer from "./img/janmer.jpg"
+import Joseling from "./img/joseling.jpg"
+import Josue from "./img/josue.jpg"
+import Jairo from "./img/jairo.jpg" 
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default
@@ -31,5 +36,20 @@ export default
     },
     {
         "Meka" : Mekano
+    },
+    {
+        "Roland": Roland
+    },
+    {
+        "Janmer": Janmer
+    },
+    {
+        "Josue": Josue
+    },
+    {
+        "Joseling": Joseling
+    },
+    {
+        "Jairo": Jairo
     }
 ]
