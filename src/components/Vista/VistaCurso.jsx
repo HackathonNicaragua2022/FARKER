@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Navbar/navbar";
+import Navbar1 from "../nueva barra/navbar";
 import "./vistaStyle.css";
 import ReactPlayer from 'react-player'
 import Lista from "../listaDeSiguiente/listaSiguente";
@@ -7,7 +7,7 @@ import Lista from "../listaDeSiguiente/listaSiguente";
 function Vista() {
   return (
     <div>
-      <Navbar />
+      <Navbar1/>
       <div className="ContenedorVista">   
             <div className="contenedor_2">
               <div className="vista_1">

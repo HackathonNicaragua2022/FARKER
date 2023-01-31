@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './Navbar/navbar'
+import Navbar1 from './nueva barra/navbar'
 import Fooder from './footer/fooder'
 import Card from './cardNosotros/card'
 import Card2 from './cardNosotros/card2'
@@ -9,7 +9,7 @@ import "./cardNosotros/card.css"
 function SobreNosotros() {
   return (
     <div>
-        <Navbar/>
+        <Navbar1/>
         <h1 className='texto1'>Conoce al equipo de Complace.</h1>
         <Card
             imagen={images[7].Roland}
